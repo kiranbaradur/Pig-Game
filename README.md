@@ -1,4 +1,7 @@
 <h1 align="center"> Pig-Game </h1>
+<h4 align="center">For Demo click <a href="https://kiranbaradur.github.io/Pig-Game/">here</a></h4>
+
+
 
 ## Number of players
   The game of Pig is best with two players, but it can work with more people. Just keep in mind that the downtime between turns grows longer with each additional player, which could be challenging for the little ones.
@@ -23,3 +26,6 @@
 ![Game Dashboard](https://github.com/kiranbaradur/Images/blob/master/1.PNG)
 ![Game Running](https://github.com/kiranbaradur/Images/blob/master/2.PNG)
 ![Winner](https://github.com/kiranbaradur/Images/blob/master/3.PNG)
+
+
+[demo]: https://kiranbaradur.github.io/Pig-Game/
